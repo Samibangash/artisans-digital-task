@@ -1,4 +1,4 @@
-# Laravel User Management System
+# Laravel User 
 
 A full-stack User Management module developed for **Artisans Digital** using Laravel 10+, providing a responsive **Web-based CRUD interface** and a fully functional **REST API**.
 
@@ -47,3 +47,7 @@ php artisan migrate
 
 # Serve the application
 php artisan serve
+
+#Access the Application
+http://127.0.0.1:8000/users
+
